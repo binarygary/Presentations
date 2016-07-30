@@ -1,0 +1,32 @@
+Outline:
+
+* Why shipping matters
+	* Brand
+	* First Impression
+	* The transaction isn't actually done until the customer receives their product
+	* It's expensive, even more so when it's messed up
+* What to think about
+	* Packaging
+	* Staff
+	* When to ship
+	* How to pay?
+	* To insure or not to insure
+* Carriers
+	* USPS
+		* FC
+		* Priority (includes insurance)
+		* Parcel
+		* US Military
+	* FedEx
+		* Ground/Residential
+		* Express
+		* Smart Post
+	* UPS
+		* SurePost
+		* Mail Innovations
+		* Ground
+		* Express
+* Software options
+	* shipstation
+	* goshippo
+* Fulfillment
