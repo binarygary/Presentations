@@ -1,0 +1,7 @@
+WordPress Hosting: High Availability Clustering
+Description: "Q: why would you consider rolling your own hosting environment? A: Single point of failure.
+We'll go through the basics of what High Availability means, how to design a fault-tolerant "cloud", and whether the benefits outweigh the time and money investment. Further, we'll frame our decisions in the context of how WordPress expects a "server" to perform.  
+This talk is for anyone that wants to explore High Availability, Clustering, and Scaling."
+Extended Info: 
+As a result of $0.15 switch that brought my company to it's knees for nearly a week I'm deathly afraid of single point of failure in the context of hosting.  So, I set out on a nerdy mission to understand "enterprise" infrastructure and how I would build out my own cluster to avoid single point of failure.  There are likely only a few attendees that have had to sort out a sytem like this due to traffic, but that doesn't mean we shouldn't all have failover or contingency plans in place.  
+Ideally I'd like to demonstrate a high availability cluster with a bunch of networked raspberry pi's...and remove nodes during the presentation without failure.  

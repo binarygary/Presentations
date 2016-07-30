@@ -1,0 +1,9 @@
+Shipping - Best Practices (both fiscally and physically), Bad Ideas (that seemed good at the time), and (surviving) Free Shipping
+Description: "If you sell physical products online you know the excitement you feel every time a new sales order arrives!
+Your job doesn't end when the credit card clears. Now you have to actually get the product to your customer.
+I'll tell you what I've learned growing from <100 shipments per day to over a thousand."
+
+Extended info: Eight years ago I started working at a company shipping 50-80 packages a day. We added several sales channels and within 2 years we had outgrown our software and shipping department and were nearing 400 orders per day. Today we have multiple shipping terminals and can handle around 2000 orders per day during Q4 but typically average closer to 1000.
+We ship products as small and light as battery terminal adaptors and as large as 100lb 36"x24"x8" wheelchair carriers.
+I've made many mistakes along the way...like the time we ran a flash sale and had to handle 10k orders in 3 days...or the time(s) we shipped a 60 pound box via ground to Hawaii.
+I will share my experience on how to fulfill orders on your own, with employees, and even using fulfillment options.
