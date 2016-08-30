@@ -27,13 +27,16 @@ Outline:
 		* Ground
 		* Express
 * Procedures
-
+	* How to setup shipping department
+	* How to process the orders
+	* Some examples
 * International
-	
+	* Outbound
+	* Inbound
 * Software options
 	* shipstation
 	* goshippo
 * Fulfillment
 	* Amazon FBA
 	* A billion other options
-* 
+* Questions
