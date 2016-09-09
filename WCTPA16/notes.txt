@@ -1,9 +1,3 @@
-	* How to setup shipping department - Pick faces? Velocity? Kitting? Combining? These are the things that take much of your time(ing).
-	* How to process the orders - Pick in bulk, like piece, or one at a time. Your order volume, product type, and staffing decide.
-	* Some examples - 
-* International - The pitfalls you find will leave scars and bruises. Falsify customs and eventually you loses.
-	* Outbound - Is it worth export restrictions and hassle. Customer service with international a
-	* Inbound
 * Software options
 	* shipstation
 	* goshippo
@@ -11,3 +5,10 @@
 	* Amazon FBA
 	* A billion other options
 * Questions
+
+
+
+shipping regulations
+weird carriers.
+explain smart post
+explain mail innovations
