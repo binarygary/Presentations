@@ -1,0 +1,5 @@
+Title:
+Plugin Generators - Why, Which, How.
+
+This presentation is for anyone that starts a new project by copying and pasting a bunch of files followed by find/replace in the readme and the main project file.
+We'll compare 4 plugin generation options, discuss the pros and cons, and create a simple plugin using each method.
